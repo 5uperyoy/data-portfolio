@@ -1,0 +1,16 @@
+Día 1 – Kaggle Python (Hello, Python)
+
+Qué hice:
+- Completé la lección "Hello, Python" en Kaggle
+- Ejecuté notebooks y ejercicios básicos
+- Subí mi primer notebook al repositorio
+
+Qué entendí:
+- Cómo crear variables en Python
+- Uso de strings y números
+- Operaciones básicas y potencias (**)
+- Importancia del orden de ejecución en notebooks
+
+Qué me costó:
+- Entender los mensajes de error (NameError, TypeError)
+- Saber cuándo ejecutar la celda de setup
